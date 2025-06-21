@@ -43,8 +43,8 @@ The plan identifies the items to be tested, the features to be tested, the types
 
 <h4> 1.1.2 Entry criteria defined </h4>
 
+<ul>
 ●	The requirements for the YouTube application must be documented and reviewed
-
 ●	Business requirements are completed by the analysis team and are delivered to the appropriate testing team for evaluation
 ●	Sufficient resources, including testers and necessary tools, have to be allocated for testing
 ●	Potential project risks are detected and mitigated
@@ -52,7 +52,7 @@ The plan identifies the items to be tested, the features to be tested, the types
 ●	Test plan should be finalized before entering the next phase of testing, as predetermined by the established schedule, to ensure efficient and effective test execution
 ●	Define the objectives of testing and the accepted level of quality
 ●	The test plan document should be reviewed and approved by stakeholders, including developers and project managers
-
+</ul>
 <h4> 1.1.3 Exit criteria defined </h4>
 
 ●	70% or more of the tests are passed
