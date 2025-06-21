@@ -34,27 +34,61 @@ The plan identifies the items to be tested, the features to be tested, the types
 
 <h4>1.1.1. Roles asigned to the project and persons allocated</h4>
 
-**(numele persoanelor pot sa fie fictive, doar sa treceti numele vostru ca si tester)**
 <ul>
-  <li>Project manager</li> 
-  <li>Product owner</li>
-  <li>Software developer</li>
-  <li>QA Engineer</li>
+  <li>Project manager - Sebastian Postole</li> 
+  <li>Product owner - Marius Georgescu</li>
+  <li>Software developer - Filip Olteanu</li>
+  <li>QA Engineer - Alexandru Bucur</li>
 </ul>
 
 <h4> 1.1.2 Entry criteria defined </h4>
 
-**(enumerati aici toate criteriile de intrare pe care le-ati definit pentru proiectul vostru)**
+●	The requirements for the YouTube application must be documented and reviewed
+●	Business requirements are completed by the analysis team and are delivered to the appropriate testing team for evaluation
+●	Sufficient resources, including testers and necessary tools, have to be allocated for testing
+●	Potential project risks are detected and mitigated
+●	Roles and responsibilities are allocated
+●	Test plan should be finalized before entering the next phase of testing, as predetermined by the established schedule, to ensure efficient and effective test execution
+●	Define the objectives of testing and the accepted level of quality
+●	The test plan document should be reviewed and approved by stakeholders, including developers and project managers
 
 <h4> 1.1.3 Exit criteria defined </h4>
 
-**(enumerati aici toate criteriile de iesire pe care le-ati definit pentru proiectul vostru)**
+●	70% or more of the tests are passed
+●	All identified test cases are executed, and the results are documented
+●	No critical issues have status open
+●	All detected errors have been reported and closed
+●	The test coverage meets the predetermined criteria, ensuring that all major functionalities and scenarios have been tested
+●	The product usage documentation has been finalized with the scenarios evaluated during the testing phase
+●	The budget was reached
+●	The deadline was reached
+●	The application is stable, with no significant crashing, freezing, or unexpected behavior encountered during testing
+●	Test completion report has been created and sent to the stakeholders to ensure its completeness and accuracy
+●	Product risks have been identified and mitigated
+●	The objectives defined in the test planning phase have been accomplished
 
 <h4> 1.1.4 Test scope</h4>
 
 <h5> Tests in scope: </h5>
 
-**(descrieti aici toate testele pe care intentionati sa le faceti. Puteti include functionalitati din aplicatie, tipuri sau tehnici de testare, dispozitive pe care veti testa etc)**
+1. Playlist Functionality
+● Playlist Creation:
+ ● Verified the ability to create new playlists.
+ ● Tested with a minimal number of videos to confirm system behavior at lower limits.
+● Edit Playlist Features:
+ ● Renaming playlists.
+ ● Changing visibility settings (e.g., Private, Unlisted, or Public).
+ ● Ensured changes were saved and correctly displayed in the user interface.
+
+2. Video Uploading
+● Upload Process:
+ ● Verified uploading of videos via the standard YouTube interface.
+ ● Confirmed successful upload, processing, and visibility in the video library.
+● Video Personalization:
+ ● Tested the ability to set a custom video title during upload.
+ ● Verified the option to set video visibility (e.g., Private, Unlisted, Public) and ensured correct behavior post-upload.
+
+
 
 <h5>Tests not in scope: </h5>
 
