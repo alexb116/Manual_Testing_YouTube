@@ -19,6 +19,8 @@ The below storys was created in Jira and describes the functional specifications
 Here you can find the release that was created for this project:
 
 **(inserati aici o poza cu release-ul pe care l-ati creat in jira. Atentie, release-ul nu va contine si teste, ci doar epic-uri, story-uri, task-uri, subtaskuri si bug-uri)**
+![image](https://github.com/user-attachments/assets/fe8508d4-21eb-40b8-9b71-535c00d29bb7)
+
 
 <h2>Testing process</h2>
 
