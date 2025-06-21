@@ -42,7 +42,6 @@ The plan identifies the items to be tested, the features to be tested, the types
 </ul>
 
 <h4> 1.1.2 Entry criteria defined </h4>
-
 <ul>
 <li>The requirements for the YouTube application must be documented and reviewed</li> 
 <li>Business requirements are completed by the analysis team and are delivered to the appropriate testing team for evaluation</li> 
@@ -54,20 +53,20 @@ The plan identifies the items to be tested, the features to be tested, the types
 <li>The test plan document should be reviewed and approved by stakeholders, including developers and project managers</li> 
 </ul>
 <h4> 1.1.3 Exit criteria defined </h4>
-
-●	70% or more of the tests are passed
-●	All identified test cases are executed, and the results are documented
-●	No critical issues have status open
-●	All detected errors have been reported and closed
-●	The test coverage meets the predetermined criteria, ensuring that all major functionalities and scenarios have been tested
-●	The product usage documentation has been finalized with the scenarios evaluated during the testing phase
-●	The budget was reached
-●	The deadline was reached
-●	The application is stable, with no significant crashing, freezing, or unexpected behavior encountered during testing
-●	Test completion report has been created and sent to the stakeholders to ensure its completeness and accuracy
-●	Product risks have been identified and mitigated
-●	The objectives defined in the test planning phase have been accomplished
-
+<ul>
+<li>70% or more of the tests are passed</li> 
+<li>All identified test cases are executed, and the results are documented</li> 
+<li>No critical issues have status open</li> 
+<li>All detected errors have been reported and closed</li> 
+<li>The test coverage meets the predetermined criteria, ensuring that all major functionalities and scenarios have been tested</li> 
+<li>The product usage documentation has been finalized with the scenarios evaluated during the testing phase</li> 
+<li>The budget was reached</li> 
+<li>The deadline was reached</li> 
+<li>The application is stable, with no significant crashing, freezing, or unexpected behavior encountered during testing</li> 
+<li>Test completion report has been created and sent to the stakeholders to ensure its completeness and accuracy</li> 
+<li>Product risks have been identified and mitigated</li> 
+<li>The objectives defined in the test planning phase have been accomplished</li> 
+</ul>
 <h4> 1.1.4 Test scope</h4>
 
 <h5> Tests in scope: </h5>
