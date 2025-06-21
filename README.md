@@ -44,6 +44,7 @@ The plan identifies the items to be tested, the features to be tested, the types
 <h4> 1.1.2 Entry criteria defined </h4>
 
 ●	The requirements for the YouTube application must be documented and reviewed
+
 ●	Business requirements are completed by the analysis team and are delivered to the appropriate testing team for evaluation
 ●	Sufficient resources, including testers and necessary tools, have to be allocated for testing
 ●	Potential project risks are detected and mitigated
