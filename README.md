@@ -92,8 +92,11 @@ The plan identifies the items to be tested, the features to be tested, the types
 
 
 <h5>Tests not in scope: </h5>
-
-**(descrieti aici toate testele pe care NU intentionati sau nu puteti sa le faceti. Puteti include functionalitati din aplicatie, tipuri sau tehnici de testare, dispozitive pe care veti testa etc)**
+<ul>
+<li>Functionality on mobile platforms (Android and iOS apps).</li>
+<li>Video upload size limits and boundary testing for large file uploads.</li>
+<li>Playlist or video upload behavior on mobile browsers.</li>
+</ul>
 
 <h4>1.1.5 Risks detected</h4>
 
