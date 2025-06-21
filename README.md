@@ -70,24 +70,25 @@ The plan identifies the items to be tested, the features to be tested, the types
 <h4> 1.1.4 Test scope</h4>
 
 <h5> Tests in scope: </h5>
-
+<ul>
 1. Playlist Functionality
-● Playlist Creation:
- ● Verified the ability to create new playlists.
- ● Tested with a minimal number of videos to confirm system behavior at lower limits.
-● Edit Playlist Features:
- ● Renaming playlists.
- ● Changing visibility settings (e.g., Private, Unlisted, or Public).
- ● Ensured changes were saved and correctly displayed in the user interface.
-
+<li>Playlist Creation:</li>
+ <li>Verified the ability to create new playlists.</li>
+ <li>Tested with a minimal number of videos to confirm system behavior at lower limits.</li>
+<li>Edit Playlist Features:</li>
+ <li>Renaming playlists.</li>
+ <li>Changing visibility settings (e.g., Private, Unlisted, or Public).</li>
+ <li>Ensured changes were saved and correctly displayed in the user interface.</li>
+</ul>
+<ul>
 2. Video Uploading
-● Upload Process:
- ● Verified uploading of videos via the standard YouTube interface.
- ● Confirmed successful upload, processing, and visibility in the video library.
-● Video Personalization:
- ● Tested the ability to set a custom video title during upload.
- ● Verified the option to set video visibility (e.g., Private, Unlisted, Public) and ensured correct behavior post-upload.
-
+<li>Upload Process:</li>
+ <li>Verified uploading of videos via the standard YouTube interface.</li>
+ <li>Confirmed successful upload, processing, and visibility in the video library.</li>
+<li>Video Personalization:</li>
+ <li>Tested the ability to set a custom video title during upload.</li>
+ <li>Verified the option to set video visibility (e.g., Private, Unlisted, Public) and ensured correct behavior post-upload.</li>
+</ul>
 
 
 <h5>Tests not in scope: </h5>
