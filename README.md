@@ -170,4 +170,4 @@ The final report shows that a number **(inserati numarul de teste)** tests have 
 
 A number of 6 total bugs were found, from which the priority is: all are medium.
 
-22 tests were created, of which 18 ran successfully and for 6 tests bug reports were created. 80% of the requirements in scope were covered, we have no high-risk situations. All defects found have a low risk and severity, can be fixed later and the product can be launched into production.
+22 tests were created, of which 16 ran successfully and for 6 tests bug reports were created. 80% of the requirements in scope were covered, we have no high-risk situations. All defects found have a low risk and severity, can be fixed later and the product can be launched into production.
