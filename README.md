@@ -101,13 +101,13 @@ The plan identifies the items to be tested, the features to be tested, the types
 <h4>1.1.5 Risks detected</h4>
 
 <h5>Project risks:</h5>
-
+<ul>
 Core functions (playlist and video upload) were tested manually, with no automation for future regression.
 
 Manual testing may miss edge cases like unusual names or privacy setting combinations.
 
 Repeating tests across updates is time-consuming and prone to human error without automation.
-
+</ul>
 <h5> Product risks: </h5>
 
 **(enumerati aici toate riscurile de produs pe care le-ati identificat pentru proiectul vostru)**
