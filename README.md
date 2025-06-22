@@ -129,7 +129,6 @@ The testing process will be executed based on the application requirements.
 
 The following test conditions were found: <br>
 
-![image](https://github.com/user-attachments/assets/b4595b41-02a0-4022-943d-7426087f8a5a)
 ![image](https://github.com/user-attachments/assets/e5c26a34-bd4f-4353-8154-c614ac405f0e)
 
 
