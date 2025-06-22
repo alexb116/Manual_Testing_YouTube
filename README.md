@@ -163,10 +163,11 @@ The traceability matrix was generated and can be found here:
 
 Test execution chart was generated and can be found below. 
 
-**(inserati aici raportul de executie generat din jira din sectiunea de dashboards)**
+![image](https://github.com/user-attachments/assets/7760e172-9b1c-43bb-bf1c-2565cf65b2af)
 
-The final report shows that a number **(inserati numarul de teste)** tests have failed of a total of **(inserati numarul de teste)**
 
-A number of **(inserati numarul de bug-uri)** total bugs were found, from which the priority is: **(inserati numarul de bug-uri)** are high and **(inserati numarul de bug-uri)** are medium.
+The final report shows that a number **(inserati numarul de teste)** tests have failed of a total of 22.
 
-**(inserati aici o concluzie generala a testarii care sa cuprinda cate teste au fost create si executate, ce procentaj aproximativ din cerintele in scop au fost acoperite, daca exista vreo functionalitate pe care nu ai apucat sa o testezi, daca bug-urile gasite impacteaza lansarea produsului in productie sau se pot fixa si ulterior, daca ai identificat riscuri de produs care trebuie mitigate, daca e vreo reecomandare pe care vrei sa o faci pentru lansare, daca sunt ceva lessons learned de care trebuie sa se tina cont la proiectele viitoare etc.)**
+A number of 6 total bugs were found, from which the priority is: all are medium.
+
+22 tests were created, of which 18 ran successfully and for 6 tests bug reports were created. 80% of the requirements in scope were covered, we have no high-risk situations. All defects found have a low risk and severity, can be fixed later and the product can be launched into production.
