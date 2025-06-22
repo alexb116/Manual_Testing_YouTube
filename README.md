@@ -144,19 +144,22 @@ The following elements are needed to be ready before the test execution phase be
 
 <h3>1.6. Test Execution </h3>
 
-Test cases are executed on the created test Cycle summary: **(inserati aici numele cycle-ului pe care l-ati creat)**
+Test cases are executed on the created test Cycle summary: SBA - YouTube Playlist, SBA - YouTube Video
 
-Bugs have been created based on the failed tests. The complete bug reports can be found here: **(inserati aici fisierul cu bug-urile pe care le-ati identificat)**
+Bugs have been created based on the failed tests. The complete bug reports can be found here: (https://itfclasses.atlassian.net/jira/software/c/projects/SBA/issues/jql=project%20%3D%20%22SBA%22%20AND%20type%20%3D%20Bug%20ORDER%20BY%20created%20DESC)
 
 The following is a summary of the bugs that have been found
-**(inserati o lista cu titlurile bug-urilor identificate impreuna cu prioritatea si severitatea fiecaruia)**
+![image](https://github.com/user-attachments/assets/fb7ba0fc-bafc-42bf-beeb-8f178bcc4a11)
+
 
 Full regression testing is needed on the impacted areas after the bugs are fixed and retesting will be done for every functionality that was previously failed.
 
 <h3> 1.7 Test Completion</h3>
 As the Exit criteria were met and satisfied as mentioned in the appropriate section, this feature is suggested to ‘Go Live’ by the Testing team
 
-The traceability matrix was generated and can be found here: **(inserati aici fie o poza cu matricea de trasabilitate din jira, fie linkul catre fiserul excel exportat din jira cu matricea de trasabilitate. Nu uitati sa faceti filtrare dupa type = story)**
+The traceability matrix was generated and can be found here: 
+![image](https://github.com/user-attachments/assets/9c79a08b-bdfe-484d-8134-14523f49fc25)
+
 
 Test execution chart was generated and can be found below. 
 
