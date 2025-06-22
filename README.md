@@ -102,15 +102,18 @@ The plan identifies the items to be tested, the features to be tested, the types
 
 <h5>Project risks:</h5>
 <ul>
-Core functions (playlist and video upload) were tested manually, with no automation for future regression.
-
-Manual testing may miss edge cases like unusual names or privacy setting combinations.
-
-Repeating tests across updates is time-consuming and prone to human error without automation.
+<li>Core functions (playlist and video upload) were tested manually, with no automation for future regression.</li>
+<li>Manual testing may miss edge cases like unusual names or privacy setting combinations.</li>
+<li>Repeating tests across updates is time-consuming and prone to human error without automation.</li>
 </ul>
 <h5> Product risks: </h5>
-
-**(enumerati aici toate riscurile de produs pe care le-ati identificat pentru proiectul vostru)**
+<ul>
+<li>Special characters in playlist or video titles are not supported.</li>
+<li>Private mode for playlists or videos does not function correctly.</li>
+<li>Playlist creation is limited to a maximum of 10 videos.</li>
+<li>Uploaded videos may be publicly visible even when set to private.</li>
+<li>Limited playlist flexibility may impact content organization and usability.</li>
+</ul>
 
 <h4>1.1.6 Evaluating entry criteria</h4>
 
