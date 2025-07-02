@@ -172,7 +172,7 @@ Test execution chart was generated and can be found below.
 ![image](https://github.com/user-attachments/assets/7760e172-9b1c-43bb-bf1c-2565cf65b2af)
 
 
-The final report shows that a number **(inserati numarul de teste)** tests have failed of a total of 22.
+The final report shows that a number of 6 tests have failed of a total of 22.
 
 A number of 6 total bugs were found, from which the priority is: all are medium.
 
