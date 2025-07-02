@@ -176,4 +176,4 @@ The final report shows that a number of 6 tests have failed of a total of 22.
 
 A number of 6 total bugs were found, from which the priority is: all are medium.
 
-22 tests were created, of which 16 ran successfully and for 6 tests bug reports were created. 80% of the requirements in scope were covered, we have no high-risk situations. All defects found have a low risk and severity, can be fixed later and the product can be launched into production.
+22 tests were created, of which 16 ran successfully and for 6 tests bug reports were created. 70% of the requirements in scope were covered, we have no high-risk situations. All defects found have a low risk and severity, can be fixed later and the product can be launched into production.
